@@ -13,7 +13,7 @@ a:hover {
 header {
   margin-bottom: 20px;
   padding: 20px;
-  border-bottom: 1px solid rgb(28, 35, 51);
+  border-bottom: 4px solid rgb(28, 35, 51);
 }
 header h1 {
   font-size: 2em;
@@ -24,7 +24,7 @@ header nav ul li {
 .clear {
   clear: both;
 }
-#project-container, #aboutme {
+#project-container, #aboutme, #geniushourproject, #ai, #advancedEngineering {
   margin:0 auto;
   width: 90%;
   max-width: 600px;
@@ -32,9 +32,9 @@ header nav ul li {
 .project {
   margin-bottom: 20px;
   padding-bottom: 10px;
-  border-bottom: 1px solid rgb(28, 35, 51);
+  border-bottom: 4px solid rgb(28, 35, 51);
 }
-.project img, #aboutme img {
+.project img, #aboutme img, #geniushourproject, #advancedEngineering img {
   width: 250px;
   float: left;
   margin-right: 10px;
