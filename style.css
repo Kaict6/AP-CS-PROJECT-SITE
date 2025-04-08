@@ -24,7 +24,7 @@ header nav ul li {
 .clear {
   clear: both;
 }
-#project-container, #aboutme, #geniushourproject, #ai, #advancedEngineering {
+#project-container, #aboutme, #geniushourproject, #ai, #advancedEngineering, #BioEHSC {
   margin:0 auto;
   width: 90%;
   max-width: 600px;
@@ -34,7 +34,7 @@ header nav ul li {
   padding-bottom: 10px;
   border-bottom: 4px solid rgb(28, 35, 51);
 }
-.project img, #aboutme img, #geniushourproject, #ai img, #advancedEngineering img {
+.project img, #aboutme img, #geniushourproject, #ai img, #advancedEngineering img, #BioEHSC img {
   width: 250px;
   float: left;
   margin-right: 10px;
